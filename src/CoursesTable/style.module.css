@@ -1,0 +1,24 @@
+.container {
+    margin: 5rem;
+
+    background-color: white;
+
+    padding: 1rem;
+    border-radius: .75rem;
+}
+
+.container table {
+    width: 100%;
+
+    border-collapse: collapse;
+}
+
+.container th, .container td {
+    text-align: center;
+
+    border: 1px solid black;
+}
+
+.spec_col {
+    width: 2.5rem;
+}

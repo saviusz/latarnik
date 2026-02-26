@@ -1,0 +1,1753 @@
+{
+    "$schema": "./courses-schema.json",
+    "courses": [
+        {
+            "name": "Algorytmy i struktury danych",
+            "id": "07 72 1010 30"
+        },
+        {
+            "name": "Fizyka I",
+            "id": "07 72 1020 30"
+        },
+        {
+            "name": "Komputerowe wspomaganie projektowania",
+            "id": "07 72 1030 30"
+        },
+        {
+            "name": "Podstawy programowania",
+            "id": "07 72 1060 30"
+        },
+        {
+            "name": "Społeczne aspekty działalności inżynierskiej",
+            "id": "07 72 1070 30"
+        },
+        {
+            "name": "Wprowadzenie do informatyki",
+            "id": "07 72 1080 30"
+        },
+        {
+            "name": "Algebra",
+            "id": "07 72 1090 30"
+        },
+        {
+            "name": "Analiza matematyczna 1",
+            "id": "07 72 1091 30"
+        },
+        {
+            "name": "Analiza matematyczna 2",
+            "id": "07 72 2010 30"
+        },
+        {
+            "name": "Architektura komputerów i programowanie niskopoziomowe",
+            "id": "07 72 2020 30"
+        },
+        {
+            "name": "Fizyka II",
+            "id": "07 72 2030 30"
+        },
+        {
+            "name": "Matematyka dyskretna",
+            "id": "07 72 2040 30"
+        },
+        {
+            "name": "Programowanie obiektowe",
+            "id": "07 72 2050 30"
+        },
+        {
+            "name": "Systemy operacyjne",
+            "id": "07 72 2060 30"
+        },
+        {
+            "name": "Język obcy moduł 1",
+            "id": "22 91 0600 10"
+        },
+        {
+            "name": "Wychowanie fizyczne",
+            "id": "23 92 3111 20"
+        },
+        {
+            "name": "Komputerowa analiza danych",
+            "id": "07 72 3010 30"
+        },
+        {
+            "name": "Podstawy elektroniki",
+            "id": "07 72 3020 30"
+        },
+        {
+            "name": "Podstawy sieci komputerowych",
+            "id": "07 72 3040 30"
+        },
+        {
+            "name": "Programowanie komponentowe",
+            "id": "07 72 3060 30"
+        },
+        {
+            "name": "Technologie XML",
+            "id": "07 72 3070 30"
+        },
+        {
+            "name": "Podstawy baz danych",
+            "id": "07 72 3080 30"
+        },
+        {
+            "name": "Język obcy moduł 2",
+            "id": "22 91 0600 20"
+        },
+        {
+            "name": "Wychowanie fizyczne",
+            "id": "23 92 3111 30"
+        },
+        {
+            "name": "Metody numeryczne i optymalizacja",
+            "id": "07 72 4020 30"
+        },
+        {
+            "name": "Sztuczna inteligencja i systemy ekspertowe",
+            "id": "07 72 4040 30"
+        },
+        {
+            "name": "Podstawy grafiki komputerowej",
+            "id": "07 72 4050 30"
+        },
+        {
+            "name": "Systemy wbudowane",
+            "id": "07 72 4070 30"
+        },
+        {
+            "name": "Telekomunikacja i przetwarzanie sygnałów",
+            "id": "07 72 4080 30"
+        },
+        {
+            "name": "Podstawy kryptografii",
+            "id": "07 72 4090 30"
+        },
+        {
+            "name": "Programowanie współbieżne",
+            "id": "07 72 4091 30"
+        },
+        {
+            "name": "Kulturowe i etyczne aspekty informatyzacji",
+            "id": "07 72 4092 30"
+        },
+        {
+            "name": "Język obcy moduł 3",
+            "id": "22 91 0600 30"
+        },
+        {
+            "name": "Modelowanie i animacja komputerowa",
+            "id": "07 72 5310 30"
+        },
+        {
+            "name": "Podstawy kompozycji",
+            "id": "07 72 5320 30"
+        },
+        {
+            "name": "Projektowanie grafiki",
+            "id": "07 72 5330 30"
+        },
+        {
+            "name": "Wybrane zagadnienia historii sztuki i estetyki",
+            "id": "07 72 5340 30"
+        },
+        {
+            "name": "Graphics Programming",
+            "id": "07 72 5350 30"
+        },
+        {
+            "name": "Projekt oparty na fabule - concept design",
+            "id": "07 72 5360 30"
+        },
+        {
+            "name": "Matematyka grafiki komputerowej",
+            "id": "07 72 5430 30"
+        },
+        {
+            "name": "Język obcy moduł 4E",
+            "id": "22 91 0600 40"
+        },
+        {
+            "name": "Wychowanie fizyczne",
+            "id": "23 92 3111 50"
+        },
+        {
+            "name": "20-Ist-IS-D-GKM-5 (Student wybiera przedmioty z bloku przedmiotów obieralnych)",
+            "id": "Przedmioty obieralne 2"
+        },
+        {
+            "name": "Analiza danych przestrzennych",
+            "id": "07 72 5060 30"
+        },
+        {
+            "name": "Dwuwymiarowe gry komputerowe",
+            "id": "07 72 5410 30"
+        },
+        {
+            "name": "Podstawy gier komputerowych",
+            "id": "07 72 5420 30"
+        },
+        {
+            "name": "Programowanie zorientowane projektowo",
+            "id": "07 72 5710 30"
+        },
+        {
+            "name": "Wybrane zagadnienia algorytmiki i programowania I",
+            "id": "07 72 5740 30"
+        },
+        {
+            "name": "Zespołowy projekt problemowy (część I)",
+            "id": "07 72 5990 17"
+        },
+        {
+            "name": "Proseminarium",
+            "id": "07 72 6020 30"
+        },
+        {
+            "name": "Moduł sumatywny",
+            "id": "07 72 6150 30"
+        },
+        {
+            "name": "Cyfrowe przetwarzanie sygnału",
+            "id": "07 72 6310 30"
+        },
+        {
+            "name": "Cyfrowe rzeźbienie i malowanie",
+            "id": "07 72 6320 30"
+        },
+        {
+            "name": "Film animowany",
+            "id": "07 72 6330 30"
+        },
+        {
+            "name": "Nowoczesne technologie internetowe",
+            "id": "07 72 6340 30"
+        },
+        {
+            "name": "Podstawy realizacji filmowej i telewizyjnej",
+            "id": "07 72 6350 30"
+        },
+        {
+            "name": "20-Ist-IS-D-GKM-6 (Student wybiera przedmioty z bloku przedmiotów obieralnych)",
+            "id": "Przedmioty obieralne 2"
+        },
+        {
+            "name": "Programowanie kart graficznych",
+            "id": "07 72 6160 30"
+        },
+        {
+            "name": "Programowanie silnika gier",
+            "id": "07 72 6430 30"
+        },
+        {
+            "name": "Rendering czasu rzeczywistego",
+            "id": "07 72 6440 30"
+        },
+        {
+            "name": "Projektowanie fabuły w grach komputerowych",
+            "id": "07 72 6720 30"
+        },
+        {
+            "name": "Projektowanie poziomów gier komputerowych",
+            "id": "07 72 6730 30"
+        },
+        {
+            "name": "Wybrane zagadnienia algorytmiki i programowania II",
+            "id": "07 72 6770 30"
+        },
+        {
+            "name": "Zespołowy projekt problemowy (część II)",
+            "id": "07 72 6990 17"
+        },
+        {
+            "name": "Seminarium dyplomowe",
+            "id": "07 72 7060 30"
+        },
+        {
+            "name": "Praktyka zawodowa",
+            "id": "07 72 7070 30"
+        },
+        {
+            "name": "Praca dyplomowa",
+            "id": "07 72 7090 30"
+        },
+        {
+            "name": "Projekt kompetencyjny",
+            "id": "07 72 7120 30"
+        },
+        {
+            "name": "Projektowanie interfejsów",
+            "id": "07 72 7310 30"
+        },
+        {
+            "name": "20-Ist-IS-D-GKM-7 (Student wybiera przedmioty z bloku przedmiotów obieralnych)",
+            "id": "Przedmioty obieralne 2"
+        },
+        {
+            "name": "Systemy informatyczne w działalności przedsiębiorstw",
+            "id": "07 72 7091 30"
+        },
+        {
+            "name": "Technologie symulacji komputerowych",
+            "id": "07 72 7410 30"
+        },
+        {
+            "name": "Projektowanie identyfikacji wizualnej",
+            "id": "07 72 7710 30"
+        },
+        {
+            "name": "Wybrane zagadnienia algorytmiki i programowania III",
+            "id": "07 72 7730 30"
+        },
+        {
+            "name": "Zespołowy projekt problemowy (część III)",
+            "id": "07 72 7990 17"
+        },
+        {
+            "name": "Algorytmy i struktury danych",
+            "id": "07 72 1010 30"
+        },
+        {
+            "name": "Fizyka I",
+            "id": "07 72 1020 30"
+        },
+        {
+            "name": "Komputerowe wspomaganie projektowania",
+            "id": "07 72 1030 30"
+        },
+        {
+            "name": "Podstawy programowania",
+            "id": "07 72 1060 30"
+        },
+        {
+            "name": "Społeczne aspekty działalności inżynierskiej",
+            "id": "07 72 1070 30"
+        },
+        {
+            "name": "Wprowadzenie do informatyki",
+            "id": "07 72 1080 30"
+        },
+        {
+            "name": "Algebra",
+            "id": "07 72 1090 30"
+        },
+        {
+            "name": "Analiza matematyczna 1",
+            "id": "07 72 1091 30"
+        },
+        {
+            "name": "Analiza matematyczna 2",
+            "id": "07 72 2010 30"
+        },
+        {
+            "name": "Architektura komputerów i programowanie niskopoziomowe",
+            "id": "07 72 2020 30"
+        },
+        {
+            "name": "Fizyka II",
+            "id": "07 72 2030 30"
+        },
+        {
+            "name": "Matematyka dyskretna",
+            "id": "07 72 2040 30"
+        },
+        {
+            "name": "Programowanie obiektowe",
+            "id": "07 72 2050 30"
+        },
+        {
+            "name": "Systemy operacyjne",
+            "id": "07 72 2060 30"
+        },
+        {
+            "name": "Język obcy moduł 1",
+            "id": "22 91 0600 10"
+        },
+        {
+            "name": "Wychowanie fizyczne",
+            "id": "23 92 3111 20"
+        },
+        {
+            "name": "Komputerowa analiza danych",
+            "id": "07 72 3010 30"
+        },
+        {
+            "name": "Podstawy elektroniki",
+            "id": "07 72 3020 30"
+        },
+        {
+            "name": "Podstawy sieci komputerowych",
+            "id": "07 72 3040 30"
+        },
+        {
+            "name": "Programowanie komponentowe",
+            "id": "07 72 3060 30"
+        },
+        {
+            "name": "Technologie XML",
+            "id": "07 72 3070 30"
+        },
+        {
+            "name": "Podstawy baz danych",
+            "id": "07 72 3080 30"
+        },
+        {
+            "name": "Język obcy moduł 2",
+            "id": "22 91 0600 20"
+        },
+        {
+            "name": "Wychowanie fizyczne",
+            "id": "23 92 3111 30"
+        },
+        {
+            "name": "Metody numeryczne i optymalizacja",
+            "id": "07 72 4020 30"
+        },
+        {
+            "name": "Sztuczna inteligencja i systemy ekspertowe",
+            "id": "07 72 4040 30"
+        },
+        {
+            "name": "Podstawy grafiki komputerowej",
+            "id": "07 72 4050 30"
+        },
+        {
+            "name": "Systemy wbudowane",
+            "id": "07 72 4070 30"
+        },
+        {
+            "name": "Telekomunikacja i przetwarzanie sygnałów",
+            "id": "07 72 4080 30"
+        },
+        {
+            "name": "Podstawy kryptografii",
+            "id": "07 72 4090 30"
+        },
+        {
+            "name": "Programowanie współbieżne",
+            "id": "07 72 4091 30"
+        },
+        {
+            "name": "Kulturowe i etyczne aspekty informatyzacji",
+            "id": "07 72 4092 30"
+        },
+        {
+            "name": "Język obcy moduł 3",
+            "id": "22 91 0600 30"
+        },
+        {
+            "name": "Inżynieria oprogramowania",
+            "id": "07 72 5010 30"
+        },
+        {
+            "name": "Wstęp do systemów mobilnych",
+            "id": "07 72 5140 30"
+        },
+        {
+            "name": "Podstawy Internetu Rzeczy",
+            "id": "07 72 5150 30"
+        },
+        {
+            "name": "Infrastruktury środowisk rozwojowych i produkcyjnych",
+            "id": "07 72 5510 30"
+        },
+        {
+            "name": "Podstawy aplikacji sieciowych",
+            "id": "07 72 5520 30"
+        },
+        {
+            "name": "Język obcy moduł 4E",
+            "id": "22 91 0600 40"
+        },
+        {
+            "name": "Wychowanie fizyczne",
+            "id": "23 92 3111 50"
+        },
+        {
+            "name": "20-Ist-IS-D-IAS-5 (Student wybiera przedmioty z bloku przedmiotów obieralnych)",
+            "id": "Przedmioty obieralne 2"
+        },
+        {
+            "name": "Administrowanie i programowanie baz danych",
+            "id": "07 72 5040 30"
+        },
+        {
+            "name": "Aplikacje w językach interpretowanych",
+            "id": "07 72 5110 30"
+        },
+        {
+            "name": "Nierelacyjne bazy danych",
+            "id": "07 72 5250 30"
+        },
+        {
+            "name": "Projektowanie sieci komputerowych",
+            "id": "07 72 5720 30"
+        },
+        {
+            "name": "Wybrane zagadnienia algorytmiki i programowania I",
+            "id": "07 72 5740 30"
+        },
+        {
+            "name": "Zespołowy projekt problemowy (część I)",
+            "id": "07 72 5990 17"
+        },
+        {
+            "name": "Proseminarium",
+            "id": "07 72 6020 30"
+        },
+        {
+            "name": "Moduł sumatywny",
+            "id": "07 72 6150 30"
+        },
+        {
+            "name": "Podstawy systemów wirtualnych",
+            "id": "07 72 6510 30"
+        },
+        {
+            "name": "Sieciowe systemy baz danych",
+            "id": "07 72 6530 30"
+        },
+        {
+            "name": "Technologie komponentów sieciowych",
+            "id": "07 72 6540 30"
+        },
+        {
+            "name": "Podstawy bezpieczeństwa systemów internetowych",
+            "id": "07 72 6570 30"
+        },
+        {
+            "name": "20-Ist-IS-D-IAS-6 (Student wybiera przedmioty z bloku przedmiotów obieralnych)",
+            "id": "Przedmioty obieralne 2"
+        },
+        {
+            "name": "Podstawy przetwarzania dużych zbiorów danych",
+            "id": "07 72 6210 30"
+        },
+        {
+            "name": "Technologie programowania",
+            "id": "07 72 6740 30"
+        },
+        {
+            "name": "Technologie sieci komputerowych",
+            "id": "07 72 6750 30"
+        },
+        {
+            "name": "Wybrane zagadnienia algorytmiki i programowania II",
+            "id": "07 72 6770 30"
+        },
+        {
+            "name": "Zaawansowane zagadnienia programowania w języku Java",
+            "id": "07 72 6780 30"
+        },
+        {
+            "name": "Zespołowy projekt problemowy (część II)",
+            "id": "07 72 6990 17"
+        },
+        {
+            "name": "Seminarium dyplomowe",
+            "id": "07 72 7060 30"
+        },
+        {
+            "name": "Praktyka zawodowa",
+            "id": "07 72 7070 30"
+        },
+        {
+            "name": "Praca dyplomowa",
+            "id": "07 72 7090 30"
+        },
+        {
+            "name": "Projekt kompetencyjny",
+            "id": "07 72 7120 30"
+        },
+        {
+            "name": "Techniki utrzymania aplikacji",
+            "id": "07 72 7510 30"
+        },
+        {
+            "name": "Selected Issues of Network Applications",
+            "id": "07 72 7520 30"
+        },
+        {
+            "name": "20-Ist-IS-D-IAS-7 (Student wybiera przedmioty z bloku przedmiotów obieralnych)",
+            "id": "Przedmioty obieralne 2"
+        },
+        {
+            "name": "Systemy informatyczne w działalności przedsiębiorstw",
+            "id": "07 72 7091 30"
+        },
+        {
+            "name": "Jakość w procesie wytwarzania oprogramowania",
+            "id": "07 72 7110 30"
+        },
+        {
+            "name": "Technologie sieci rozległych",
+            "id": "07 72 7720 30"
+        },
+        {
+            "name": "Wybrane zagadnienia algorytmiki i programowania III",
+            "id": "07 72 7730 30"
+        },
+        {
+            "name": "Zespołowy projekt problemowy (część III)",
+            "id": "07 72 7990 17"
+        },
+        {
+            "name": "Algorytmy i struktury danych",
+            "id": "07 72 1010 30"
+        },
+        {
+            "name": "Fizyka I",
+            "id": "07 72 1020 30"
+        },
+        {
+            "name": "Komputerowe wspomaganie projektowania",
+            "id": "07 72 1030 30"
+        },
+        {
+            "name": "Podstawy programowania",
+            "id": "07 72 1060 30"
+        },
+        {
+            "name": "Społeczne aspekty działalności inżynierskiej",
+            "id": "07 72 1070 30"
+        },
+        {
+            "name": "Wprowadzenie do informatyki",
+            "id": "07 72 1080 30"
+        },
+        {
+            "name": "Algebra",
+            "id": "07 72 1090 30"
+        },
+        {
+            "name": "Analiza matematyczna 1",
+            "id": "07 72 1091 30"
+        },
+        {
+            "name": "Analiza matematyczna 2",
+            "id": "07 72 2010 30"
+        },
+        {
+            "name": "Architektura komputerów i programowanie niskopoziomowe",
+            "id": "07 72 2020 30"
+        },
+        {
+            "name": "Fizyka II",
+            "id": "07 72 2030 30"
+        },
+        {
+            "name": "Matematyka dyskretna",
+            "id": "07 72 2040 30"
+        },
+        {
+            "name": "Programowanie obiektowe",
+            "id": "07 72 2050 30"
+        },
+        {
+            "name": "Systemy operacyjne",
+            "id": "07 72 2060 30"
+        },
+        {
+            "name": "Język obcy moduł 1",
+            "id": "22 91 0600 10"
+        },
+        {
+            "name": "Wychowanie fizyczne",
+            "id": "23 92 3111 20"
+        },
+        {
+            "name": "Komputerowa analiza danych",
+            "id": "07 72 3010 30"
+        },
+        {
+            "name": "Podstawy elektroniki",
+            "id": "07 72 3020 30"
+        },
+        {
+            "name": "Podstawy sieci komputerowych",
+            "id": "07 72 3040 30"
+        },
+        {
+            "name": "Programowanie komponentowe",
+            "id": "07 72 3060 30"
+        },
+        {
+            "name": "Technologie XML",
+            "id": "07 72 3070 30"
+        },
+        {
+            "name": "Podstawy baz danych",
+            "id": "07 72 3080 30"
+        },
+        {
+            "name": "Język obcy moduł 2",
+            "id": "22 91 0600 20"
+        },
+        {
+            "name": "Wychowanie fizyczne",
+            "id": "23 92 3111 30"
+        },
+        {
+            "name": "Metody numeryczne i optymalizacja",
+            "id": "07 72 4020 30"
+        },
+        {
+            "name": "Sztuczna inteligencja i systemy ekspertowe",
+            "id": "07 72 4040 30"
+        },
+        {
+            "name": "Podstawy grafiki komputerowej",
+            "id": "07 72 4050 30"
+        },
+        {
+            "name": "Systemy wbudowane",
+            "id": "07 72 4070 30"
+        },
+        {
+            "name": "Telekomunikacja i przetwarzanie sygnałów",
+            "id": "07 72 4080 30"
+        },
+        {
+            "name": "Podstawy kryptografii",
+            "id": "07 72 4090 30"
+        },
+        {
+            "name": "Programowanie współbieżne",
+            "id": "07 72 4091 30"
+        },
+        {
+            "name": "Kulturowe i etyczne aspekty informatyzacji",
+            "id": "07 72 4092 30"
+        },
+        {
+            "name": "Język obcy moduł 3",
+            "id": "22 91 0600 30"
+        },
+        {
+            "name": "Inżynieria oprogramowania",
+            "id": "07 72 5010 30"
+        },
+        {
+            "name": "Systemy przetwarzania w chmurze",
+            "id": "07 72 5130 30"
+        },
+        {
+            "name": "Wstęp do systemów mobilnych",
+            "id": "07 72 5140 30"
+        },
+        {
+            "name": "Internet Rzeczy I",
+            "id": "07 72 5610 30"
+        },
+        {
+            "name": "Przetwarzanie sygnałów w systemach mobilnych",
+            "id": "07 72 5620 30"
+        },
+        {
+            "name": "Język obcy moduł 4E",
+            "id": "22 91 0600 40"
+        },
+        {
+            "name": "Wychowanie fizyczne",
+            "id": "23 92 3111 50"
+        },
+        {
+            "name": "20-Ist-IS-D-IRAM-5 (Student wybiera przedmioty z bloku przedmiotów obieralnych)",
+            "id": "Przedmioty obieralne 2"
+        },
+        {
+            "name": "Analiza danych przestrzennych",
+            "id": "07 72 5060 30"
+        },
+        {
+            "name": "Podstawy gier komputerowych",
+            "id": "07 72 5420 30"
+        },
+        {
+            "name": "Infrastruktury środowisk rozwojowych i produkcyjnych",
+            "id": "07 72 5510 30"
+        },
+        {
+            "name": "Podstawy aplikacji sieciowych",
+            "id": "07 72 5520 30"
+        },
+        {
+            "name": "Projektowanie sieci komputerowych",
+            "id": "07 72 5720 30"
+        },
+        {
+            "name": "Wybrane zagadnienia algorytmiki i programowania I",
+            "id": "07 72 5740 30"
+        },
+        {
+            "name": "Zespołowy projekt problemowy (część I)",
+            "id": "07 72 5990 17"
+        },
+        {
+            "name": "Proseminarium",
+            "id": "07 72 6020 30"
+        },
+        {
+            "name": "Moduł sumatywny",
+            "id": "07 72 6150 30"
+        },
+        {
+            "name": "Internet Rzeczy II",
+            "id": "07 72 6610 30"
+        },
+        {
+            "name": "Modeling and Optimization in Modern Engineering",
+            "id": "07 72 6620 30"
+        },
+        {
+            "name": "Podstawy bezpieczeństwa systemów Internetu Rzeczy",
+            "id": "07 72 6630 30"
+        },
+        {
+            "name": "20-Ist-IS-D-IRAM-6 (Student wybiera przedmioty z bloku przedmiotów obieralnych)",
+            "id": "Przedmioty obieralne 2"
+        },
+        {
+            "name": "Projektowanie narzędzi Business Intelligence",
+            "id": "07 72 6091 30"
+        },
+        {
+            "name": "Podstawy przetwarzania dużych zbiorów danych",
+            "id": "07 72 6210 30"
+        },
+        {
+            "name": "Programowanie silnika gier",
+            "id": "07 72 6430 30"
+        },
+        {
+            "name": "Podstawy systemów wirtualnych",
+            "id": "07 72 6510 30"
+        },
+        {
+            "name": "Wybrane zagadnienia algorytmiki i programowania II",
+            "id": "07 72 6770 30"
+        },
+        {
+            "name": "Zaawansowane zagadnienia programowania w języku Java",
+            "id": "07 72 6780 30"
+        },
+        {
+            "name": "Zespołowy projekt problemowy (część II)",
+            "id": "07 72 6990 17"
+        },
+        {
+            "name": "Seminarium dyplomowe",
+            "id": "07 72 7060 30"
+        },
+        {
+            "name": "Praktyka zawodowa",
+            "id": "07 72 7070 30"
+        },
+        {
+            "name": "Praca dyplomowa",
+            "id": "07 72 7090 30"
+        },
+        {
+            "name": "Projekt kompetencyjny",
+            "id": "07 72 7120 30"
+        },
+        {
+            "name": "Podstawy testowania systemów Internetu Rzeczy",
+            "id": "07 72 7610 30"
+        },
+        {
+            "name": "20-Ist-IS-D-IRAM-7 (Student wybiera przedmioty z bloku przedmiotów obieralnych)",
+            "id": "Przedmioty obieralne 2"
+        },
+        {
+            "name": "Systemy informatyczne w działalności przedsiębiorstw",
+            "id": "07 72 7091 30"
+        },
+        {
+            "name": "Projektowanie interfejsów",
+            "id": "07 72 7310 30"
+        },
+        {
+            "name": "Selected Issues of Network Applications",
+            "id": "07 72 7520 30"
+        },
+        {
+            "name": "Projektowanie identyfikacji wizualnej",
+            "id": "07 72 7710 30"
+        },
+        {
+            "name": "Wybrane zagadnienia algorytmiki i programowania III",
+            "id": "07 72 7730 30"
+        },
+        {
+            "name": "Zespołowy projekt problemowy (część III)",
+            "id": "07 72 7990 17"
+        },
+        {
+            "name": "Algorytmy i struktury danych",
+            "id": "07 72 1010 30"
+        },
+        {
+            "name": "Fizyka I",
+            "id": "07 72 1020 30"
+        },
+        {
+            "name": "Komputerowe wspomaganie projektowania",
+            "id": "07 72 1030 30"
+        },
+        {
+            "name": "Podstawy programowania",
+            "id": "07 72 1060 30"
+        },
+        {
+            "name": "Społeczne aspekty działalności inżynierskiej",
+            "id": "07 72 1070 30"
+        },
+        {
+            "name": "Wprowadzenie do informatyki",
+            "id": "07 72 1080 30"
+        },
+        {
+            "name": "Algebra",
+            "id": "07 72 1090 30"
+        },
+        {
+            "name": "Analiza matematyczna 1",
+            "id": "07 72 1091 30"
+        },
+        {
+            "name": "Analiza matematyczna 2",
+            "id": "07 72 2010 30"
+        },
+        {
+            "name": "Architektura komputerów i programowanie niskopoziomowe",
+            "id": "07 72 2020 30"
+        },
+        {
+            "name": "Fizyka II",
+            "id": "07 72 2030 30"
+        },
+        {
+            "name": "Matematyka dyskretna",
+            "id": "07 72 2040 30"
+        },
+        {
+            "name": "Programowanie obiektowe",
+            "id": "07 72 2050 30"
+        },
+        {
+            "name": "Systemy operacyjne",
+            "id": "07 72 2060 30"
+        },
+        {
+            "name": "Język obcy moduł 1",
+            "id": "22 91 0600 10"
+        },
+        {
+            "name": "Wychowanie fizyczne",
+            "id": "23 92 3111 20"
+        },
+        {
+            "name": "Komputerowa analiza danych",
+            "id": "07 72 3010 30"
+        },
+        {
+            "name": "Podstawy elektroniki",
+            "id": "07 72 3020 30"
+        },
+        {
+            "name": "Podstawy sieci komputerowych",
+            "id": "07 72 3040 30"
+        },
+        {
+            "name": "Programowanie komponentowe",
+            "id": "07 72 3060 30"
+        },
+        {
+            "name": "Technologie XML",
+            "id": "07 72 3070 30"
+        },
+        {
+            "name": "Podstawy baz danych",
+            "id": "07 72 3080 30"
+        },
+        {
+            "name": "Język obcy moduł 2",
+            "id": "22 91 0600 20"
+        },
+        {
+            "name": "Wychowanie fizyczne",
+            "id": "23 92 3111 30"
+        },
+        {
+            "name": "Metody numeryczne i optymalizacja",
+            "id": "07 72 4020 30"
+        },
+        {
+            "name": "Sztuczna inteligencja i systemy ekspertowe",
+            "id": "07 72 4040 30"
+        },
+        {
+            "name": "Podstawy grafiki komputerowej",
+            "id": "07 72 4050 30"
+        },
+        {
+            "name": "Systemy wbudowane",
+            "id": "07 72 4070 30"
+        },
+        {
+            "name": "Telekomunikacja i przetwarzanie sygnałów",
+            "id": "07 72 4080 30"
+        },
+        {
+            "name": "Podstawy kryptografii",
+            "id": "07 72 4090 30"
+        },
+        {
+            "name": "Programowanie współbieżne",
+            "id": "07 72 4091 30"
+        },
+        {
+            "name": "Kulturowe i etyczne aspekty informatyzacji",
+            "id": "07 72 4092 30"
+        },
+        {
+            "name": "Język obcy moduł 3",
+            "id": "22 91 0600 30"
+        },
+        {
+            "name": "Inżynieria oprogramowania",
+            "id": "07 72 5010 30"
+        },
+        {
+            "name": "Administrowanie i programowanie baz danych",
+            "id": "07 72 5040 30"
+        },
+        {
+            "name": "Projektowanie hurtowni danych",
+            "id": "07 72 5240 30"
+        },
+        {
+            "name": "Nierelacyjne bazy danych",
+            "id": "07 72 5250 30"
+        },
+        {
+            "name": "Programming in Python",
+            "id": "07 72 5260 30"
+        },
+        {
+            "name": "Język obcy moduł 4E",
+            "id": "22 91 0600 40"
+        },
+        {
+            "name": "Wychowanie fizyczne",
+            "id": "23 92 3111 50"
+        },
+        {
+            "name": "20-Ist-IS-D-IBD-5 (Student wybiera przedmioty z bloku przedmiotów obieralnych)",
+            "id": "Przedmioty obieralne 2"
+        },
+        {
+            "name": "Analiza danych przestrzennych",
+            "id": "07 72 5060 30"
+        },
+        {
+            "name": "Aplikacje w językach interpretowanych",
+            "id": "07 72 5110 30"
+        },
+        {
+            "name": "Systemy przetwarzania w chmurze",
+            "id": "07 72 5130 30"
+        },
+        {
+            "name": "Wstęp do systemów mobilnych",
+            "id": "07 72 5140 30"
+        },
+        {
+            "name": "Internet Rzeczy I",
+            "id": "07 72 5610 30"
+        },
+        {
+            "name": "Programowanie zorientowane projektowo",
+            "id": "07 72 5710 30"
+        },
+        {
+            "name": "Wybrane zagadnienia algorytmiki i programowania I",
+            "id": "07 72 5740 30"
+        },
+        {
+            "name": "Zespołowy projekt problemowy (część I)",
+            "id": "07 72 5990 17"
+        },
+        {
+            "name": "Proseminarium",
+            "id": "07 72 6020 30"
+        },
+        {
+            "name": "Moduł sumatywny",
+            "id": "07 72 6150 30"
+        },
+        {
+            "name": "Podstawy przetwarzania dużych zbiorów danych",
+            "id": "07 72 6210 30"
+        },
+        {
+            "name": "Projektowanie systemów baz danych",
+            "id": "07 72 6230 30"
+        },
+        {
+            "name": "Wizualizacja i raportowanie danych",
+            "id": "07 72 6240 30"
+        },
+        {
+            "name": "20-Ist-IS-D-IBD-6 (Student wybiera przedmioty z bloku przedmiotów obieralnych)",
+            "id": "Przedmioty obieralne 2"
+        },
+        {
+            "name": "Projektowanie narzędzi Business Intelligence",
+            "id": "07 72 6091 30"
+        },
+        {
+            "name": "Sieciowe systemy baz danych",
+            "id": "07 72 6530 30"
+        },
+        {
+            "name": "Internet Rzeczy II",
+            "id": "07 72 6610 30"
+        },
+        {
+            "name": "Technologie programowania",
+            "id": "07 72 6740 30"
+        },
+        {
+            "name": "Wybrane zagadnienia algorytmiki i programowania II",
+            "id": "07 72 6770 30"
+        },
+        {
+            "name": "Zaawansowane zagadnienia programowania w języku Java",
+            "id": "07 72 6780 30"
+        },
+        {
+            "name": "Zespołowy projekt problemowy (część II)",
+            "id": "07 72 6990 17"
+        },
+        {
+            "name": "Seminarium dyplomowe",
+            "id": "07 72 7060 30"
+        },
+        {
+            "name": "Praktyka zawodowa",
+            "id": "07 72 7070 30"
+        },
+        {
+            "name": "Praca dyplomowa",
+            "id": "07 72 7090 30"
+        },
+        {
+            "name": "Projekt kompetencyjny",
+            "id": "07 72 7120 30"
+        },
+        {
+            "name": "Marketing internetowy",
+            "id": "07 72 7210 30"
+        },
+        {
+            "name": "20-Ist-IS-D-IBD-7 (Student wybiera przedmioty z bloku przedmiotów obieralnych)",
+            "id": "Przedmioty obieralne 2"
+        },
+        {
+            "name": "Systemy informatyczne w działalności przedsiębiorstw",
+            "id": "07 72 7091 30"
+        },
+        {
+            "name": "Jakość w procesie wytwarzania oprogramowania",
+            "id": "07 72 7110 30"
+        },
+        {
+            "name": "Projektowanie interfejsów",
+            "id": "07 72 7310 30"
+        },
+        {
+            "name": "Technologie symulacji komputerowych",
+            "id": "07 72 7410 30"
+        },
+        {
+            "name": "Projektowanie identyfikacji wizualnej",
+            "id": "07 72 7710 30"
+        },
+        {
+            "name": "Wybrane zagadnienia algorytmiki i programowania III",
+            "id": "07 72 7730 30"
+        },
+        {
+            "name": "Zespołowy projekt problemowy (część III)",
+            "id": "07 72 7990 17"
+        },
+        {
+            "name": "Algorytmy i struktury danych",
+            "id": "07 72 1010 30"
+        },
+        {
+            "name": "Fizyka I",
+            "id": "07 72 1020 30"
+        },
+        {
+            "name": "Komputerowe wspomaganie projektowania",
+            "id": "07 72 1030 30"
+        },
+        {
+            "name": "Podstawy programowania",
+            "id": "07 72 1060 30"
+        },
+        {
+            "name": "Społeczne aspekty działalności inżynierskiej",
+            "id": "07 72 1070 30"
+        },
+        {
+            "name": "Wprowadzenie do informatyki",
+            "id": "07 72 1080 30"
+        },
+        {
+            "name": "Algebra",
+            "id": "07 72 1090 30"
+        },
+        {
+            "name": "Analiza matematyczna 1",
+            "id": "07 72 1091 30"
+        },
+        {
+            "name": "Analiza matematyczna 2",
+            "id": "07 72 2010 30"
+        },
+        {
+            "name": "Architektura komputerów i programowanie niskopoziomowe",
+            "id": "07 72 2020 30"
+        },
+        {
+            "name": "Fizyka II",
+            "id": "07 72 2030 30"
+        },
+        {
+            "name": "Matematyka dyskretna",
+            "id": "07 72 2040 30"
+        },
+        {
+            "name": "Programowanie obiektowe",
+            "id": "07 72 2050 30"
+        },
+        {
+            "name": "Systemy operacyjne",
+            "id": "07 72 2060 30"
+        },
+        {
+            "name": "Język obcy moduł 1",
+            "id": "22 91 0600 10"
+        },
+        {
+            "name": "Wychowanie fizyczne",
+            "id": "23 92 3111 20"
+        },
+        {
+            "name": "Komputerowa analiza danych",
+            "id": "07 72 3010 30"
+        },
+        {
+            "name": "Podstawy elektroniki",
+            "id": "07 72 3020 30"
+        },
+        {
+            "name": "Podstawy sieci komputerowych",
+            "id": "07 72 3040 30"
+        },
+        {
+            "name": "Programowanie komponentowe",
+            "id": "07 72 3060 30"
+        },
+        {
+            "name": "Technologie XML",
+            "id": "07 72 3070 30"
+        },
+        {
+            "name": "Podstawy baz danych",
+            "id": "07 72 3080 30"
+        },
+        {
+            "name": "Język obcy moduł 2",
+            "id": "22 91 0600 20"
+        },
+        {
+            "name": "Wychowanie fizyczne",
+            "id": "23 92 3111 30"
+        },
+        {
+            "name": "Metody numeryczne i optymalizacja",
+            "id": "07 72 4020 30"
+        },
+        {
+            "name": "Sztuczna inteligencja i systemy ekspertowe",
+            "id": "07 72 4040 30"
+        },
+        {
+            "name": "Podstawy grafiki komputerowej",
+            "id": "07 72 4050 30"
+        },
+        {
+            "name": "Systemy wbudowane",
+            "id": "07 72 4070 30"
+        },
+        {
+            "name": "Telekomunikacja i przetwarzanie sygnałów",
+            "id": "07 72 4080 30"
+        },
+        {
+            "name": "Podstawy kryptografii",
+            "id": "07 72 4090 30"
+        },
+        {
+            "name": "Programowanie współbieżne",
+            "id": "07 72 4091 30"
+        },
+        {
+            "name": "Kulturowe i etyczne aspekty informatyzacji",
+            "id": "07 72 4092 30"
+        },
+        {
+            "name": "Język obcy moduł 3",
+            "id": "22 91 0600 30"
+        },
+        {
+            "name": "Inżynieria oprogramowania",
+            "id": "07 72 5010 30"
+        },
+        {
+            "name": "Administrowanie i programowanie baz danych",
+            "id": "07 72 5040 30"
+        },
+        {
+            "name": "Aplikacje w językach interpretowanych",
+            "id": "07 72 5110 30"
+        },
+        {
+            "name": "Metaheurystyki i ich zastosowania",
+            "id": "07 72 5120 30"
+        },
+        {
+            "name": "Systemy przetwarzania w chmurze",
+            "id": "07 72 5130 30"
+        },
+        {
+            "name": "Język obcy moduł 4E",
+            "id": "22 91 0600 40"
+        },
+        {
+            "name": "Wychowanie fizyczne",
+            "id": "23 92 3111 50"
+        },
+        {
+            "name": "20-Ist-IS-D-IOAD-5 (Student wybiera przedmioty z bloku przedmiotów obieralnych)",
+            "id": "Przedmioty obieralne 2"
+        },
+        {
+            "name": "Analiza danych przestrzennych",
+            "id": "07 72 5060 30"
+        },
+        {
+            "name": "Wstęp do systemów mobilnych",
+            "id": "07 72 5140 30"
+        },
+        {
+            "name": "Programming in Python",
+            "id": "07 72 5260 30"
+        },
+        {
+            "name": "Programowanie zorientowane projektowo",
+            "id": "07 72 5710 30"
+        },
+        {
+            "name": "Wybrane zagadnienia algorytmiki i programowania I",
+            "id": "07 72 5740 30"
+        },
+        {
+            "name": "Zespołowy projekt problemowy (część I)",
+            "id": "07 72 5990 17"
+        },
+        {
+            "name": "Proseminarium",
+            "id": "07 72 6020 30"
+        },
+        {
+            "name": "Komputerowe systemy rozpoznawania",
+            "id": "07 72 6110 30"
+        },
+        {
+            "name": "Problem Workshop in Software Engineering",
+            "id": "07 72 6120 30"
+        },
+        {
+            "name": "Techniki inteligentnej analizy danych",
+            "id": "07 72 6140 30"
+        },
+        {
+            "name": "Moduł sumatywny",
+            "id": "07 72 6150 30"
+        },
+        {
+            "name": "Cyfrowe przetwarzanie sygnału",
+            "id": "07 72 6310 30"
+        },
+        {
+            "name": "20-Ist-IS-D-IOAD-6 (Student wybiera przedmioty z bloku przedmiotów obieralnych)",
+            "id": "Przedmioty obieralne 2"
+        },
+        {
+            "name": "Projektowanie narzędzi Business Intelligence",
+            "id": "07 72 6091 30"
+        },
+        {
+            "name": "Sieciowe systemy baz danych",
+            "id": "07 72 6530 30"
+        },
+        {
+            "name": "Technologie programowania",
+            "id": "07 72 6740 30"
+        },
+        {
+            "name": "Wybrane zagadnienia algorytmiki i programowania II",
+            "id": "07 72 6770 30"
+        },
+        {
+            "name": "Zaawansowane zagadnienia programowania w języku Java",
+            "id": "07 72 6780 30"
+        },
+        {
+            "name": "Zespołowy projekt problemowy (część II)",
+            "id": "07 72 6990 17"
+        },
+        {
+            "name": "Seminarium dyplomowe",
+            "id": "07 72 7060 30"
+        },
+        {
+            "name": "Praktyka zawodowa",
+            "id": "07 72 7070 30"
+        },
+        {
+            "name": "Praca dyplomowa",
+            "id": "07 72 7090 30"
+        },
+        {
+            "name": "Jakość w procesie wytwarzania oprogramowania",
+            "id": "07 72 7110 30"
+        },
+        {
+            "name": "Projekt kompetencyjny",
+            "id": "07 72 7120 30"
+        },
+        {
+            "name": "20-Ist-IS-D-IOAD-7 (Student wybiera przedmioty z bloku przedmiotów obieralnych)",
+            "id": "Przedmioty obieralne 2"
+        },
+        {
+            "name": "Marketing internetowy",
+            "id": "07 72 7210 30"
+        },
+        {
+            "name": "Projektowanie identyfikacji wizualnej",
+            "id": "07 72 7710 30"
+        },
+        {
+            "name": "Wybrane zagadnienia algorytmiki i programowania III",
+            "id": "07 72 7730 30"
+        },
+        {
+            "name": "Metody optymalizacji w ekonomii",
+            "id": "07 72 7740 30"
+        },
+        {
+            "name": "Zespołowy projekt problemowy (część III)",
+            "id": "07 72 7990 17"
+        },
+        {
+            "name": "Algorytmy i struktury danych",
+            "id": "07 72 1010 30"
+        },
+        {
+            "name": "Fizyka I",
+            "id": "07 72 1020 30"
+        },
+        {
+            "name": "Komputerowe wspomaganie projektowania",
+            "id": "07 72 1030 30"
+        },
+        {
+            "name": "Podstawy programowania",
+            "id": "07 72 1060 30"
+        },
+        {
+            "name": "Społeczne aspekty działalności inżynierskiej",
+            "id": "07 72 1070 30"
+        },
+        {
+            "name": "Wprowadzenie do informatyki",
+            "id": "07 72 1080 30"
+        },
+        {
+            "name": "Algebra",
+            "id": "07 72 1090 30"
+        },
+        {
+            "name": "Analiza matematyczna 1",
+            "id": "07 72 1091 30"
+        },
+        {
+            "name": "Analiza matematyczna 2",
+            "id": "07 72 2010 30"
+        },
+        {
+            "name": "Architektura komputerów i programowanie niskopoziomowe",
+            "id": "07 72 2020 30"
+        },
+        {
+            "name": "Fizyka II",
+            "id": "07 72 2030 30"
+        },
+        {
+            "name": "Matematyka dyskretna",
+            "id": "07 72 2040 30"
+        },
+        {
+            "name": "Programowanie obiektowe",
+            "id": "07 72 2050 30"
+        },
+        {
+            "name": "Systemy operacyjne",
+            "id": "07 72 2060 30"
+        },
+        {
+            "name": "Język obcy moduł 1",
+            "id": "22 91 0600 10"
+        },
+        {
+            "name": "Wychowanie fizyczne",
+            "id": "23 92 3111 20"
+        },
+        {
+            "name": "Komputerowa analiza danych",
+            "id": "07 72 3010 30"
+        },
+        {
+            "name": "Podstawy elektroniki",
+            "id": "07 72 3020 30"
+        },
+        {
+            "name": "Podstawy sieci komputerowych",
+            "id": "07 72 3040 30"
+        },
+        {
+            "name": "Programowanie komponentowe",
+            "id": "07 72 3060 30"
+        },
+        {
+            "name": "Technologie XML",
+            "id": "07 72 3070 30"
+        },
+        {
+            "name": "Podstawy baz danych",
+            "id": "07 72 3080 30"
+        },
+        {
+            "name": "Język obcy moduł 2",
+            "id": "22 91 0600 20"
+        },
+        {
+            "name": "Wychowanie fizyczne",
+            "id": "23 92 3111 30"
+        },
+        {
+            "name": "Metody numeryczne i optymalizacja",
+            "id": "07 72 4020 30"
+        },
+        {
+            "name": "Sztuczna inteligencja i systemy ekspertowe",
+            "id": "07 72 4040 30"
+        },
+        {
+            "name": "Podstawy grafiki komputerowej",
+            "id": "07 72 4050 30"
+        },
+        {
+            "name": "Systemy wbudowane",
+            "id": "07 72 4070 30"
+        },
+        {
+            "name": "Telekomunikacja i przetwarzanie sygnałów",
+            "id": "07 72 4080 30"
+        },
+        {
+            "name": "Podstawy kryptografii",
+            "id": "07 72 4090 30"
+        },
+        {
+            "name": "Programowanie współbieżne",
+            "id": "07 72 4091 30"
+        },
+        {
+            "name": "Kulturowe i etyczne aspekty informatyzacji",
+            "id": "07 72 4092 30"
+        },
+        {
+            "name": "Język obcy moduł 3",
+            "id": "22 91 0600 30"
+        },
+        {
+            "name": "Inżynieria oprogramowania",
+            "id": "07 72 5010 30"
+        },
+        {
+            "name": "Modelowanie i animacja komputerowa",
+            "id": "07 72 5310 30"
+        },
+        {
+            "name": "Graphics Programming",
+            "id": "07 72 5350 30"
+        },
+        {
+            "name": "Dwuwymiarowe gry komputerowe",
+            "id": "07 72 5410 30"
+        },
+        {
+            "name": "Podstawy gier komputerowych",
+            "id": "07 72 5420 30"
+        },
+        {
+            "name": "Matematyka grafiki komputerowej",
+            "id": "07 72 5430 30"
+        },
+        {
+            "name": "Język obcy moduł 4E",
+            "id": "22 91 0600 40"
+        },
+        {
+            "name": "Wychowanie fizyczne",
+            "id": "23 92 3111 50"
+        },
+        {
+            "name": "20-Ist-IS-D-TGSK-5 (Student wybiera przedmioty z bloku przedmiotów obieralnych)",
+            "id": "Przedmioty obieralne 2"
+        },
+        {
+            "name": "Projekt oparty na fabule - concept design",
+            "id": "07 72 5360 30"
+        },
+        {
+            "name": "Programowanie zorientowane projektowo",
+            "id": "07 72 5710 30"
+        },
+        {
+            "name": "Wstęp do informatyki kwantowej",
+            "id": "07 72 5730 30"
+        },
+        {
+            "name": "Wybrane zagadnienia algorytmiki i programowania I",
+            "id": "07 72 5740 30"
+        },
+        {
+            "name": "Zespołowy projekt problemowy (część I)",
+            "id": "07 72 5990 17"
+        },
+        {
+            "name": "Proseminarium",
+            "id": "07 72 6020 30"
+        },
+        {
+            "name": "Moduł sumatywny",
+            "id": "07 72 6150 30"
+        },
+        {
+            "name": "Programowanie kart graficznych",
+            "id": "07 72 6160 30"
+        },
+        {
+            "name": "Programowanie gier komputerowych",
+            "id": "07 72 6410 30"
+        },
+        {
+            "name": "Programowanie silnika gier",
+            "id": "07 72 6430 30"
+        },
+        {
+            "name": "Rendering czasu rzeczywistego",
+            "id": "07 72 6440 30"
+        },
+        {
+            "name": "20-Ist-IS-D-TGSK-6 (Student wybiera przedmioty z bloku przedmiotów obieralnych)",
+            "id": "Przedmioty obieralne 2"
+        },
+        {
+            "name": "Cyfrowe rzeźbienie i malowanie",
+            "id": "07 72 6320 30"
+        },
+        {
+            "name": "Film animowany",
+            "id": "07 72 6330 30"
+        },
+        {
+            "name": "Projektowanie fabuły w grach komputerowych",
+            "id": "07 72 6720 30"
+        },
+        {
+            "name": "Projektowanie poziomów gier komputerowych",
+            "id": "07 72 6730 30"
+        },
+        {
+            "name": "Wybrane zagadnienia algorytmiki i programowania II",
+            "id": "07 72 6770 30"
+        },
+        {
+            "name": "Zespołowy projekt problemowy (część II)",
+            "id": "07 72 6990 17"
+        },
+        {
+            "name": "Seminarium dyplomowe",
+            "id": "07 72 7060 30"
+        },
+        {
+            "name": "Praktyka zawodowa",
+            "id": "07 72 7070 30"
+        },
+        {
+            "name": "Praca dyplomowa",
+            "id": "07 72 7090 30"
+        },
+        {
+            "name": "Projekt kompetencyjny",
+            "id": "07 72 7120 30"
+        },
+        {
+            "name": "Technologie symulacji komputerowych",
+            "id": "07 72 7410 30"
+        },
+        {
+            "name": "20-Ist-IS-D-TGSK-7 (Student wybiera przedmioty z bloku przedmiotów obieralnych)",
+            "id": "Przedmioty obieralne 2"
+        },
+        {
+            "name": "Systemy informatyczne w działalności przedsiębiorstw",
+            "id": "07 72 7091 30"
+        },
+        {
+            "name": "Projektowanie interfejsów",
+            "id": "07 72 7310 30"
+        },
+        {
+            "name": "Projektowanie identyfikacji wizualnej",
+            "id": "07 72 7710 30"
+        },
+        {
+            "name": "Wybrane zagadnienia algorytmiki i programowania III",
+            "id": "07 72 7730 30"
+        },
+        {
+            "name": "Zespołowy projekt problemowy (część III)",
+            "id": "07 72 7990 17"
+        }
+    ]
+}

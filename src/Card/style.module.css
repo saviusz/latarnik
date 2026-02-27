@@ -1,0 +1,20 @@
+.card {
+    border: 1px solid var(--c-outline);
+    border-radius: var(--s-radius);
+
+    min-width: 100px;
+    min-height: 100px;
+    flex: 1;
+
+    padding: 10px;
+    margin: 10px auto;
+
+    background-color: var(--c-surface);
+    color: var(--c-surface-text);
+
+    --box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05);
+
+    box-shadow: var(--box-shadow);
+    -webkit-box-shadow: var(--box-shadow);
+    -moz-box-shadow: var(--box-shadow);
+}

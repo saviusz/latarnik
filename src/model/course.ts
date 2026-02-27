@@ -5,6 +5,7 @@ export const courseModel = z.object({
     name: z.string(),
     description: z.string().optional(),
     specs: z.array(z.string()),
+    optional: z.array(z.string()).optional(),
 });
 
 export type Course = z.infer<typeof courseModel>;

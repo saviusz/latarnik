@@ -21,6 +21,12 @@
                         "items": {
                             "type": "string"
                         }
+                    },
+                    "optional": {
+                        "type": "array",
+                        "items": {
+                            "type": "string"
+                        }
                     }
                 },
                 "required": ["id", "name"]

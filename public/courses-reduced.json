@@ -413,7 +413,9 @@
       "name": "Wstęp do systemów mobilnych",
       "specs": [
         "iias",
-        "iot",
+        "iot"
+      ],
+      "optional": [
         "bd",
         "io"
       ]
@@ -429,7 +431,9 @@
       "id": "07 72 5510 30",
       "name": "Infrastruktury środowisk rozwojowych i produkcyjnych",
       "specs": [
-        "iias",
+        "iias"
+      ],
+      "optional": [
         "iot"
       ]
     },
@@ -437,7 +441,9 @@
       "id": "07 72 5520 30",
       "name": "Podstawy aplikacji sieciowych",
       "specs": [
-        "iias",
+        "iias"
+      ],
+      "optional": [
         "iot"
       ]
     },
@@ -493,32 +499,39 @@
       "id": "07 72 5040 30",
       "name": "Administrowanie i programowanie baz danych",
       "specs": [
-        "iias",
         "bd",
         "io"
+      ],
+      "optional": [
+        "iias"
       ]
     },
     {
       "id": "07 72 5110 30",
       "name": "Aplikacje w językach interpretowanych",
       "specs": [
-        "iias",
-        "bd",
         "io"
+      ],
+      "optional": [
+        "iias",
+        "bd"
       ]
     },
     {
       "id": "07 72 5250 30",
       "name": "Nierelacyjne bazy danych",
       "specs": [
-        "iias",
         "bd"
+      ],
+      "optional": [
+        "iias"
       ]
     },
     {
       "id": "07 72 5720 30",
       "name": "Projektowanie sieci komputerowych",
-      "specs": [
+      "specs": [],
+      "optional": [
         "iias",
         "iot"
       ]
@@ -526,7 +539,8 @@
     {
       "id": "07 72 5740 30",
       "name": "Wybrane zagadnienia algorytmiki i programowania I",
-      "specs": [
+      "specs": [],
+      "optional": [
         "iias",
         "iot",
         "bd",
@@ -575,7 +589,9 @@
       "id": "07 72 6510 30",
       "name": "Podstawy systemów wirtualnych",
       "specs": [
-        "iias",
+        "iias"
+      ],
+      "optional": [
         "iot"
       ]
     },
@@ -583,7 +599,9 @@
       "id": "07 72 6530 30",
       "name": "Sieciowe systemy baz danych",
       "specs": [
-        "iias",
+        "iias"
+      ],
+      "optional": [
         "bd",
         "io"
       ]
@@ -606,15 +624,18 @@
       "id": "07 72 6210 30",
       "name": "Podstawy przetwarzania dużych zbiorów danych",
       "specs": [
-        "iias",
-        "iot",
         "bd"
+      ],
+      "optional": [
+        "iias",
+        "iot"
       ]
     },
     {
       "id": "07 72 6740 30",
       "name": "Technologie programowania",
-      "specs": [
+      "specs": [],
+      "optional": [
         "iias",
         "bd",
         "io"
@@ -623,7 +644,8 @@
     {
       "id": "07 72 6750 30",
       "name": "Technologie sieci komputerowych",
-      "specs": [
+      "specs": [],
+      "optional": [
         "iias"
       ]
     },
@@ -642,7 +664,8 @@
     {
       "id": "07 72 6780 30",
       "name": "Zaawansowane zagadnienia programowania w języku Java",
-      "specs": [
+      "specs": [],
+      "optional": [
         "iias",
         "iot",
         "bd",
@@ -712,14 +735,16 @@
     {
       "id": "07 72 7510 30",
       "name": "Techniki utrzymania aplikacji",
-      "specs": [
+      "specs": [],
+      "optional": [
         "iias"
       ]
     },
     {
       "id": "07 72 7520 30",
       "name": "Selected Issues of Network Applications",
-      "specs": [
+      "specs": [],
+      "optional": [
         "iias",
         "iot"
       ]
@@ -727,7 +752,8 @@
     {
       "id": "07 72 7091 30",
       "name": "Systemy informatyczne w działalności przedsiębiorstw",
-      "specs": [
+      "specs": [],
+      "optional": [
         "iias",
         "iot",
         "bd",
@@ -738,7 +764,8 @@
     {
       "id": "07 72 7110 30",
       "name": "Jakość w procesie wytwarzania oprogramowania",
-      "specs": [
+      "specs": [],
+      "optional": [
         "iias",
         "bd",
         "io"
@@ -747,7 +774,8 @@
     {
       "id": "07 72 7720 30",
       "name": "Technologie sieci rozległych",
-      "specs": [
+      "specs": [],
+      "optional": [
         "iias"
       ]
     },
@@ -780,15 +808,19 @@
       "name": "Systemy przetwarzania w chmurze",
       "specs": [
         "iot",
-        "bd",
         "io"
+      ],
+      "optional": [
+        "bd"
       ]
     },
     {
       "id": "07 72 5610 30",
       "name": "Internet Rzeczy I",
       "specs": [
-        "iot",
+        "iot"
+      ],
+      "optional": [
         "bd"
       ]
     },
@@ -802,7 +834,8 @@
     {
       "id": "07 72 5060 30",
       "name": "Analiza danych przestrzennych",
-      "specs": [
+      "specs": [],
+      "optional": [
         "iot",
         "bd",
         "io",
@@ -813,8 +846,10 @@
       "id": "07 72 5420 30",
       "name": "Podstawy gier komputerowych",
       "specs": [
+        "gierki"
+      ],
+      "optional": [
         "iot",
-        "gierki",
         "graf"
       ]
     },
@@ -822,7 +857,9 @@
       "id": "07 72 6610 30",
       "name": "Internet Rzeczy II",
       "specs": [
-        "iot",
+        "iot"
+      ],
+      "optional": [
         "bd"
       ]
     },
@@ -843,7 +880,8 @@
     {
       "id": "07 72 6091 30",
       "name": "Projektowanie narzędzi Business Intelligence",
-      "specs": [
+      "specs": [],
+      "optional": [
         "iot",
         "bd",
         "io"
@@ -853,8 +891,10 @@
       "id": "07 72 6430 30",
       "name": "Programowanie silnika gier",
       "specs": [
+        "gierki"
+      ],
+      "optional": [
         "iot",
-        "gierki",
         "graf"
       ]
     },
@@ -868,7 +908,8 @@
     {
       "id": "07 72 7310 30",
       "name": "Projektowanie interfejsów",
-      "specs": [
+      "specs": [],
+      "optional": [
         "iot",
         "bd",
         "gierki",
@@ -878,7 +919,8 @@
     {
       "id": "07 72 7710 30",
       "name": "Projektowanie identyfikacji wizualnej",
-      "specs": [
+      "specs": [],
+      "optional": [
         "iot",
         "bd",
         "io",
@@ -897,14 +939,17 @@
       "id": "07 72 5260 30",
       "name": "Programming in Python",
       "specs": [
-        "bd",
+        "bd"
+      ],
+      "optional": [
         "io"
       ]
     },
     {
       "id": "07 72 5710 30",
       "name": "Programowanie zorientowane projektowo",
-      "specs": [
+      "specs": [],
+      "optional": [
         "bd",
         "io",
         "gierki",
@@ -928,7 +973,8 @@
     {
       "id": "07 72 7210 30",
       "name": "Marketing internetowy",
-      "specs": [
+      "specs": [],
+      "optional": [
         "bd",
         "io"
       ]
@@ -936,7 +982,8 @@
     {
       "id": "07 72 7410 30",
       "name": "Technologie symulacji komputerowych",
-      "specs": [
+      "specs": [],
+      "optional": [
         "bd",
         "gierki",
         "graf"
@@ -981,7 +1028,8 @@
     {
       "id": "07 72 7740 30",
       "name": "Metody optymalizacji w ekonomii",
-      "specs": [
+      "specs": [],
+      "optional": [
         "io"
       ]
     },
@@ -1005,7 +1053,9 @@
       "id": "07 72 5410 30",
       "name": "Dwuwymiarowe gry komputerowe",
       "specs": [
-        "gierki",
+        "gierki"
+      ],
+      "optional": [
         "graf"
       ]
     },
@@ -1021,14 +1071,17 @@
       "id": "07 72 5360 30",
       "name": "Projekt oparty na fabule - concept design",
       "specs": [
-        "gierki",
         "graf"
+      ],
+      "optional": [
+        "gierki"
       ]
     },
     {
       "id": "07 72 5730 30",
       "name": "Wstęp do informatyki kwantowej",
-      "specs": [
+      "specs": [],
+      "optional": [
         "gierki"
       ]
     },
@@ -1036,7 +1089,9 @@
       "id": "07 72 6160 30",
       "name": "Programowanie kart graficznych",
       "specs": [
-        "gierki",
+        "gierki"
+      ],
+      "optional": [
         "graf"
       ]
     },
@@ -1051,7 +1106,9 @@
       "id": "07 72 6440 30",
       "name": "Rendering czasu rzeczywistego",
       "specs": [
-        "gierki",
+        "gierki"
+      ],
+      "optional": [
         "graf"
       ]
     },
@@ -1059,22 +1116,27 @@
       "id": "07 72 6320 30",
       "name": "Cyfrowe rzeźbienie i malowanie",
       "specs": [
-        "gierki",
         "graf"
+      ],
+      "optional": [
+        "gierki"
       ]
     },
     {
       "id": "07 72 6330 30",
       "name": "Film animowany",
       "specs": [
-        "gierki",
         "graf"
+      ],
+      "optional": [
+        "gierki"
       ]
     },
     {
       "id": "07 72 6720 30",
       "name": "Projektowanie fabuły w grach komputerowych",
-      "specs": [
+      "specs": [],
+      "optional": [
         "gierki",
         "graf"
       ]
@@ -1082,7 +1144,8 @@
     {
       "id": "07 72 6730 30",
       "name": "Projektowanie poziomów gier komputerowych",
-      "specs": [
+      "specs": [],
+      "optional": [
         "gierki",
         "graf"
       ]

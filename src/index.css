@@ -1,0 +1,70 @@
+:root {
+  /* Podstawa - Delikatna mięta zamiast "żarówy" */
+  --c-background: hsl(140, 20%, 98%);
+  --c-text: #1a1f1b;
+
+  /* Primary - Głęboka zieleń zamiast czerni */
+  --c-primary: #10b981;
+  --c-primary-text: #ffffff;
+
+  /* Outline - Subtelne granice */
+  --c-outline: #e2e8f0;
+  --c-outline-active: #10b981;
+
+  /* Surface - Czystość i głębia */
+  --c-surface: #ffffff;
+  --c-surface-text: #1a1f1b;
+  --c-surface-tint: #d1fae5;
+  --c-surface-shade: #f0fdf4;
+
+  --s-radius: 0.75rem;
+
+  --c-success: #02be47;
+  --c-error: #ef4444;
+  --c-warning: #f9cf13;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    /* Tło - Głęboki grafit z nutą zieleni */
+    --c-background: #0f1711;
+    --c-text: #ecfdf5;
+
+    /* Primary - Żywa zieleń, która "świeci" w ciemności */
+    --c-primary: #34d399;
+    --c-primary-text: #064e3b;
+
+    /* Outline - Lepsza widoczność krawędzi */
+    --c-outline: #2d3748;
+    --c-outline-active: #34d399;
+
+    /* Surface - Warstwy dark mode */
+    --c-surface: #1a241d;
+    --c-surface-text: #ecfdf5;
+    --c-surface-tint: #065f46;
+    --c-surface-shade: #111827;
+
+    --c-success: #22c55e;
+    --c-error: #ef4444;
+    --c-warning: #eab308;
+  }
+}
+
+#root {
+  isolation: isolate;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  font-family: "Lato", sans-serif;
+  background-color: var(--c-background);
+  color: var(--c-text);
+}

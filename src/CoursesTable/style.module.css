@@ -1,24 +1,67 @@
 .container {
-    margin: 5rem;
-
-    background-color: white;
-
-    padding: 1rem;
-    border-radius: .75rem;
+  overflow: auto;
 }
 
-.container table {
-    width: 100%;
-
-    border-collapse: collapse;
+.table {
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: collapse;
+  position: relative;
 }
 
-.container th, .container td {
-    text-align: center;
+.table .header th {
+  background-color: var(--c-surface-tint);
+  padding: 0.5rem 1rem;
 
-    border: 1px solid black;
+  width: min-content;
+
+  border-right: 1px solid var(--c-surface);
 }
 
-.spec_col {
-    width: 2.5rem;
+.table .header th:first-child {
+  border-radius: var(--s-radius) 0 0 var(--s-radius);
+}
+
+.table .header th:last-child {
+  border-radius: 0 var(--s-radius) var(--s-radius) 0;
+  border-right: none;
+}
+
+.table .row > * {
+  border-bottom: 1px solid var(--c-outline);
+  padding: 0.35rem;
+}
+
+.table .row td:first-child {
+  background-color: var(--c-surface);
+  color: var(--c-surface-text);
+}
+
+.table .row td:first-child,
+.table .header th:first-child {
+  position: sticky;
+  left: 0;
+  z-index: 5;
+  /* width: 100%; */
+  min-width: 200px;
+}
+
+.table .row:last-child > * {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.success {
+  color: var(--c-success);
+  font-size: 1.4rem;
+}
+
+.optional {
+  color: var(--c-warning);
+  font-size: 1.2rem;
+}
+
+.missing {
+  color: gray;
+  font-size: 1.4rem;
 }

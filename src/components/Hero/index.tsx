@@ -7,8 +7,7 @@ function Hero() {
         <h1>Latarnik studencki</h1>
         <p>Witamy w latarniku studenckim</p>
         <p>
-          Niczym na wyborach. Wypełnij krótki quiz, żeby poznać przedmioty i
-          znaleźć swoją przyszłą speckę
+          Poznaj przedmioty i wybierz swoją przyszłą speckę
         </p>
       </div>
       <div className={style.image}>

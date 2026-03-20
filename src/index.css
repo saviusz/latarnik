@@ -4,7 +4,7 @@
   --c-text: #1a1f1b;
 
   /* Primary - Głęboka zieleń zamiast czerni */
-  --c-primary: #10b981;
+  --c-primary: #147805;
   --c-primary-text: #ffffff;
 
   /* Outline - Subtelne granice */
@@ -18,6 +18,8 @@
   --c-surface-shade: #f0fdf4;
 
   --s-radius: 0.75rem;
+  --s-radius-s: 0.4rem;
+
 
   --c-success: #02be47;
   --c-error: #ef4444;
@@ -31,8 +33,9 @@
     --c-text: #ecfdf5;
 
     /* Primary - Żywa zieleń, która "świeci" w ciemności */
-    --c-primary: #34d399;
-    --c-primary-text: #064e3b;
+    --c-primary: #147805;
+    --c-primary-text: #dde8db;
+
 
     /* Outline - Lepsza widoczność krawędzi */
     --c-outline: #2d3748;

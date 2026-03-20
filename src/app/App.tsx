@@ -1,6 +1,7 @@
 import './App.css'
-import CoursesTable from '../CoursesTable';
 import { useCourses } from '../util/useCourses';
+import CoursesTable from '../components/CoursesTable';
+import Hero from '../components/Hero';
 
 function App() {
 
@@ -15,7 +16,7 @@ function App() {
   });
 
   return <div>
-    <h1>Latarnik Studencki</h1>
+    <Hero />
     <CoursesTable courses={sortedCourses}/>
   </div>
 }

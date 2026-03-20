@@ -1,4 +1,4 @@
-import type { Course } from "../model/course";
+import type { Course } from "../../model/course";
 import style from "./style.module.css";
 import Card from "../Card";
 import {

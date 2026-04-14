@@ -1,3 +1,4 @@
+import { getAnalytics, logEvent } from "firebase/analytics";
 import Button from "../Button";
 import style from "./style.module.css";
 
@@ -10,7 +11,13 @@ function Hero() {
         <p>
           Poznaj przedmioty i wybierz swoją przyszłą speckę
         </p>
-        <Button style="primary" onClick={() => {window.open("specki.png")}}>Otwórz grafikę</Button>
+        <Button style="primary" onClick={
+          () => {
+            const analytics = getAnalytics();
+            logEvent(analytics, 'image_opened');
+            window.open("specki.png")
+          }
+        }>Otwórz grafikę</Button>
       </div>
       <div className={style.image}>
         <img src="specki.png" alt="Tabela specjalizacji" />

@@ -4,6 +4,8 @@
     gap: 1rem;
 
     padding: 3rem 2rem;
+    max-width: 1100px;
+    margin: auto;
 }
 
 .texts {
@@ -32,5 +34,15 @@
         /* max-height: 75%; */
 
         border-radius: var(--s-radius);
+    }
+}
+
+@media screen and (max-width: 750px) {
+    .container {
+        padding: 5rem 1rem;
+    }   
+
+    .image {
+        display: none;
     }
 }

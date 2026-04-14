@@ -1,6 +1,6 @@
 // src/firebase.js
 import { initializeApp } from "firebase/app";
-import { getAnalytics } from "firebase/analytics";
+import { initializeAnalytics } from "firebase/analytics";
 
 const firebaseConfig = {
 
@@ -18,5 +18,10 @@ const firebaseConfig = {
 const app = initializeApp(firebaseConfig);
 
 // Inicjalizacja Analytics (zadziała tylko w przeglądarce)
-export const analytics = getAnalytics(app);
+export const analytics = initializeAnalytics(app, {
+    config: {
+        cookie_domain: 'saviusz.github.io',
+        cookie_flags: 'SameSite=None;Secure'
+    }
+});
 export default app;

@@ -10,7 +10,7 @@ function Hero() {
         <p>
           Poznaj przedmioty i wybierz swoją przyszłą speckę
         </p>
-        <Button style="primary" onClick={() => {navigation.navigate("specki.png")}}>Otwórz grafikę</Button>
+        <Button style="primary" onClick={() => {window.open("specki.png")}}>Otwórz grafikę</Button>
       </div>
       <div className={style.image}>
         <img src="specki.png" alt="Tabela specjalizacji" />
